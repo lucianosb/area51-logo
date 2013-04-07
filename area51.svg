@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="are51.svg">
+   sodipodi:docname="area51.svg">
   <defs
      id="defs4">
     <linearGradient
@@ -47,8 +47,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="4"
-     inkscape:cx="64.76116"
-     inkscape:cy="75.75"
+     inkscape:cx="60.38616"
+     inkscape:cy="65.75"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -103,15 +103,27 @@
        style="fill:#ffffff;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;font-family:Sans"
-       x="38.421555"
-       y="984.36212"
+       style="font-size:32.51730347px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Sans"
+       x="52.117687"
+       y="983.86212"
        id="text3058"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3060"
-         x="38.421555"
-         y="984.36212"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#808080;font-family:Alfa Slab One;-inkscape-font-specification:Alfa Slab One">51</tspan></text>
+         x="52.117687"
+         y="983.86212"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#4d4d4d;font-family:Rationale One;-inkscape-font-specification:Rationale One">Sl</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24.25196838px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Sans"
+       x="42.827332"
+       y="956.11212"
+       id="text3876"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3878"
+         x="42.827332"
+         y="956.11212"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#4d4d4d;font-family:Rationale One;-inkscape-font-specification:Rationale One">area</tspan></text>
   </g>
 </svg>
