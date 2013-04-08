@@ -3,7 +3,13 @@ area51-logo
 
 Desenvolvimento da logo do Área 51 DF. Primeira versão.
 
-## License
+A fonte usada foi a Rationale, que pode ser obtida em http://www.google.com/fonts/specimen/Rationale
+
+## Prévia
+
+![Prévia da Logo](previa/area51.png)
+
+## Licença
 
 DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
  Version 2, December 2004 
