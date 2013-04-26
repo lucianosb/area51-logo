@@ -28,3 +28,7 @@ TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
   0. You just DO WHAT THE FUCK YOU WANT TO.
 
 [DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE]: http://www.wtfpl.net/
+
+## Endorse me
+
+[![endorse](https://api.coderwall.com/lucianosb/endorsecount.png)](https://coderwall.com/lucianosb)
